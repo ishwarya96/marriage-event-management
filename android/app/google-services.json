@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "186464898421",
+    "project_id": "marriage-event-mangemnt",
+    "storage_bucket": "marriage-event-mangemnt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186464898421:android:696ec9c542b285c6a9973c",
+        "android_client_info": {
+          "package_name": "com.example.marriage_event_mangement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186464898421-8vrr0u2k1bvis2lcqhcah5stto3a7uum.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx4-oStADAqXe4bvXYR9lIbhGZeu9h3cY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186464898421-8vrr0u2k1bvis2lcqhcah5stto3a7uum.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
